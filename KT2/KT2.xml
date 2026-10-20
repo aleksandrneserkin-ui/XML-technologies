@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <notebook
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="KT2.xsd">
@@ -29,7 +29,7 @@
         </name>
         <address>
             <street>text</street>
-            <city>y=text</city>
+            <city>text</city>
             <index>111232</index>
         </address>
         <phones>
