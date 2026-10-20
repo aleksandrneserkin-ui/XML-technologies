@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notebook
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="KT2.xsd">
+    <offices>
+        <office code="A1">text</office>
+        <office code="A2">text</office>
+        <office code="A4">text</office>
+    </offices>
+    <person id="B1" office="A1">
+        <name>
+            <first>text</first>
+            <surname>text</surname>
+        </name>
+        <address>
+            <city>text</city>
+            <index>323211</index>
+            <street>text</street>
+        </address>
+        <phones>
+            <phone>949-63-25</phone>
+            <phone type="work">323-33-44</phone>
+        </phones>
+    </person>
+    <person id="B2" office="A1">
+        <name>
+            <first>text</first>
+            <surname>text</surname>
+        </name>
+        <address>
+            <street>text</street>
+            <city>y=text</city>
+            <index>111232</index>
+        </address>
+        <phones>
+            <phone type="home">123-45-67</phone>
+        </phones>
+    </person>
+    <person id="B3" office="A4">
+        <name>
+            <first>text</first>
+            <surname>text</surname>
+        </name>
+        <address>
+            <index>138465</index>
+            <street>text</street>
+            <city>text</city>
+        </address>
+        <phones>
+        </phones>
+    </person>
+</notebook>
